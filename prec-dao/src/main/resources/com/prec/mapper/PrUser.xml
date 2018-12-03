@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper namespace="com.prec.mapper.PrUser">
+    <select id="getProducts" resultType="com.prec.pojo.PrUser">
+        SELECT * FROM  pr_user
+    </select>
+</mapper>

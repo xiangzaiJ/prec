@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="prec-common" />
+        <module name="prec-dao" />
+        <module name="prec-pojo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="prec-common" target="1.7" />
+      <module name="prec-dao" target="1.7" />
+      <module name="prec-parent" target="1.7" />
+      <module name="prec-pojo" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

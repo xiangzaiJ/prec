@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/prec-common/prec-common.iml" filepath="$PROJECT_DIR$/prec-common/prec-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prec-dao/prec-dao.iml" filepath="$PROJECT_DIR$/prec-dao/prec-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prec-parent.iml" filepath="$PROJECT_DIR$/prec-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prec-pojo/prec-pojo.iml" filepath="$PROJECT_DIR$/prec-pojo/prec-pojo.iml" />
+    </modules>
+  </component>
+</project>
