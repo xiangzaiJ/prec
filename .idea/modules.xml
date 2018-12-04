@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/prec-dao/prec-dao.iml" filepath="$PROJECT_DIR$/prec-dao/prec-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/prec-parent.iml" filepath="$PROJECT_DIR$/prec-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/prec-pojo/prec-pojo.iml" filepath="$PROJECT_DIR$/prec-pojo/prec-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prec-user-controller/prec-user-controller.iml" filepath="$PROJECT_DIR$/prec-user-controller/prec-user-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prec-user-interface/prec-user-interface.iml" filepath="$PROJECT_DIR$/prec-user-interface/prec-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prec-user-service/prec-user-service.iml" filepath="$PROJECT_DIR$/prec-user-service/prec-user-service.iml" />
     </modules>
   </component>
 </project>

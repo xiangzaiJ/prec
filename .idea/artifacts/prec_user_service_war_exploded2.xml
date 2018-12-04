@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="prec-user-service:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/prec_user_service_war_exploded2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="prec-user-service/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="prec-user-service" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

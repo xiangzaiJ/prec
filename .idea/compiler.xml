@@ -6,16 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="prec-common" />
         <module name="prec-dao" />
         <module name="prec-pojo" />
+        <module name="prec-user-controller" />
+        <module name="prec-user-interface" />
+        <module name="prec-user-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="prec-common" target="1.7" />
-      <module name="prec-dao" target="1.7" />
-      <module name="prec-parent" target="1.7" />
-      <module name="prec-pojo" target="1.7" />
+      <module name="prec-common" target="1.8" />
+      <module name="prec-dao" target="1.8" />
+      <module name="prec-parent" target="1.8" />
+      <module name="prec-pojo" target="1.8" />
+      <module name="prec-user-controller" target="1.8" />
+      <module name="prec-user-interface" target="1.8" />
+      <module name="prec-user-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

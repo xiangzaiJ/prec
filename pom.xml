@@ -12,6 +12,10 @@
         <module>prec-pojo</module>
         <module>prec-dao</module>
         <module>prec-common</module>
+        <module>prec-user-controller</module>
+        <module>prec-user-service</module>
+        <module>prec-user-interface</module>
+        <module>prec-user-service</module>
     </modules>
     <!-- 集中定义依赖版本号 -->
     <properties>
@@ -276,8 +280,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.2</version>
                 <configuration>
-                    <source>1.7</source>
-                    <target>1.7</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                     <encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
