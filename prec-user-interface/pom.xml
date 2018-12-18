@@ -15,6 +15,12 @@
             <artifactId>prec-pojo</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.jblog</groupId>
+            <artifactId>prec-dao</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
     <artifactId>prec-user-interface</artifactId>
 
