@@ -9,8 +9,13 @@ public class UserServiceImpl implements UserService {
     @Autowired
     private PrUserMapper prUserMapper;
     @Override
-    public void Register(PrUser user) {
+    public void register(PrUser user) {
 
         prUserMapper.insert(user);
+    }
+
+    @Override
+    public PrUser login(String username, String password) {
+        return null;
     }
 }
